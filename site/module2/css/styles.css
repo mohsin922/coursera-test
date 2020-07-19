@@ -38,13 +38,13 @@ section {
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
-	font-family: Georgia,sans-serif;
+	font-family: Arial,sans-serif;
 	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #00FF00;
+	background-color: #FFFF00;
 }
 
 #beef {
@@ -52,13 +52,13 @@ section {
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
-	font-family: Georgia,sans-serif;
+	font-family: Arial,sans-serif;
 	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #FFFF39;
+	background-color: #FF1439;
 }
 
 #sushi {
@@ -66,12 +66,12 @@ section {
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
-	font-family: Georgia,sans-serif;
+	font-family: Arial,sans-serif;
 	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
-	background-color: #7695FD;
+	background-color: #7695ED;
 	color: white;
 	padding: 5px;
 }
